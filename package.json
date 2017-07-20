@@ -1,0 +1,25 @@
+{
+  "name": "dans_workbench",
+  "version": "1.0.0",
+  "description": "working repository for testing and layout",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git@github.com:chasedan/dans_workbench.git"
+  },
+  "author": "Dstump",
+  "license": "ISC",
+  "bugs": {
+    "url": "http://dans_workbench.dev/issues"
+  },
+  "homepage": "http://dans_workbench.dev/",
+  "devDependencies": {
+    "browser-sync": "^2.18.7",
+    "del": "^2.2.2",
+    "gulp": "^3.9.1",
+    "gulp-sass": "^3.1.0"
+  }
+}
